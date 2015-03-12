@@ -1,0 +1,28 @@
+{
+  "name": "sequelize-query-builder",
+  "version": "0.1.0",
+  "description": "Query builder for Sequelize",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ndreas/sequelize-query-builder"
+  },
+  "keywords": [
+    "sequelize",
+    "query",
+    "builder"
+  ],
+  "author": "Andreas Johansson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ndreas/sequelize-query-builder/issues"
+  },
+  "homepage": "https://github.com/ndreas/sequelize-query-builder",
+  "devDependencies": {
+    "chai": "^2.1.1",
+    "mocha": "^2.2.1"
+  }
+}
